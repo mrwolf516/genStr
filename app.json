@@ -8,7 +8,7 @@
         "session",
         "pyrogram"
     ],
-    "repository": "https://github.com/Krishna-Singhal/genStr",
+    "repository": "https://github.com/mrwolf516/genStr",
     "website": "https://telegram.me/ks_projects",
     "env": {
         "APP_ID": {
@@ -33,7 +33,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "eco"
+            "size": "free"
         }
     },
     "stack": "heroku-20"
